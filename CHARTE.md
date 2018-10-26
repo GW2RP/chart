@@ -1,13 +1,17 @@
-# La Croisée des Chemins
+# Présentation
 
-## TL;DR:
-> Comportez vous en bonne intelligence.
-
-## Présentation
+## Concepts
 - 
 
 ## Valeurs
 - 
+
+--- 
+
+# Règles
+
+## TL;DR
+> Comportez vous en bonne intelligence.
 
 ## Comportement
 - Le serveur n'est pas une cour de récréation. Il s'agit, cependant, d'un espace considéré public. Par conséquent, vous êtes tenu de respecter toutes les règles de comportement s'appliquant à ces espaces. S'il y a quelque chose que vous ne feriez pas dans la rue ou dans un café, ne le faites pas non plus ici.
@@ -34,3 +38,7 @@
 - Les manquements répétés ou les comportements particulièrement inadaptés, couplés à un refus catégorique de prendre en compte les remarques et avertissements des modérateurs, peuvent conduire à une expulsion temporaire du serveur, et ce sans concertation.
 - La persistance dans le refus d'adopter un comportement approprié, malgré les avertissements, rappels à l'ordre, et sanctions répétées, ou un manquement grave au regard de la loi française, peuvent conduire à une expulsion permanente du serveur sur décision de l'équipe de modération.
 - Les contestations de sanctions se font par messages privés auprès des modérateurs, en premier lieu avec le modérateur concerné dans le cas d'une décision individuelle, puis éventuellement avec un modérateur tiers.
+
+---
+
+# En RP
