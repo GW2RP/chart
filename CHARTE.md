@@ -2,7 +2,7 @@
 
 > Vous êtes invités à consulter régulièrement cette charte dont vous acceptez le contenu en faisant partie du serveur discord.
 
-> L'historique des modifications est disponible sur [GitGub](https://github.com/GW2RP/chart/commits/master/CHARTE.md). Vous êtes également libre d'y proposer des modifications.
+> L'historique des modifications est disponible sur [GitHub](https://github.com/GW2RP/chart/commits/master/CHARTE.md). Vous êtes également libre d'y proposer des modifications.
 
 ## Concepts
 - 
@@ -72,3 +72,10 @@
 ## Affrontements et antagonisme
 - Dans le cadre d'un affrontement entre joueurs, et plus particulièrement les assassinats, vous devez vous concerter au préalable avec la cible pour savoir ce qu'il est prêt à accepter ou non. Sans accord préalable, ne tuez pas.
 - Il est de coutume de s'arranger sur le fait que dans le cas d'un assassinat, le commanditaire ou exécutant s'arrangent pour fournir à la cible un kit de changement d'identité, mais ce n'est pas une obligation.
+
+## MetaJeu
+- Vous vous devez d'éviter au possible le Méta-Jeu. Votre personnage n'a accès qu'aux informations qu'il a obtenu en RP, ou que le joueur détenteur des informations vous autorise à les posséder en HRP.
+- Dans le cas de filatures ou de recherches d'informations, vous êtes incités si vous le pouvez à prendre contact avec le détenteur originel des informations pour vous assurer de leur véracité et légitimité. Pensez également à prévenir un protagoniste que vous filez pour être tenu au courant des informations qui transitent.
+- Si vous êtes pris pour cible dans une filature, vous vous devez de jouer le jeu et de partager les informations accessibles.
+- Vous avez le devoir de ne pas propager de manière RP une information obtenue de manière HRP.
+- En cas de doute sur la légitimité d'une information, il n'y a qu'une seule réaction valide: contacter la personne concernée.
