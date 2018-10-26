@@ -1,5 +1,9 @@
 # Présentation
 
+> Vous êtes invités à consulter régulièrement cette charte dont vous acceptez le contenu en faisant partie du serveur discord.
+
+> L'historique des modifications est disponible sur [GitGub](https://github.com/GW2RP/chart/commits/master/CHARTE.md). Vous êtes également libre d'y proposer des modifications.
+
 ## Concepts
 - 
 
@@ -42,3 +46,28 @@
 ---
 
 # En RP
+
+## Evènements, difficulté, blessures et décès.
+> La communauté propose des évènements aux joueurs. En y participant, vous acceptez les règles ci-dessous, et les MJs s'engagent à les respecter comme base.  
+
+### Proposer un évènement communautaire
+- N'importe qui est libre de proposer un évènement. Qu'il soit externe ou interne. Si vous avez des idées mais que vous avez peur de vous lancer, n'hésitez pas à demander de l'aide auprès de MJ plus expérimentés.
+- Les évènements externes ne sont pas soumis à ces règles. Mais vous êtes incités à les respecter tout de même.
+- Si vous décidez d'intégrer un joueur externe à un de vos évènements interne, il est de votre responsabilité de vous assurer qu'il respectera ces règles.
+- Vous pouvez utiliser l'outil du [Cartographe](https://gw2rp-tools.ovh/) pour diffuser votre évènement, et vous pouvez l'indiquer sur le canal `#évènement-annonces` du discord.
+
+### La difficulté
+- Les évènements indiquent une difficulté qui vous informe des possibles conséquences sur votre personnage en y participant:
+  - **Hardcore:** Cet évènement peut entraîner des conséquences graves, et jusqu'à la mort des personnages y participant. Si ce dernier point vous semble rédibitoire, vous pouvez en discuter avec le MJ *avant* l'évènement. Toute votre concentration sera certainement nécessaire pour vous en tirer, et les dés pourront se retourner contre vous.
+  - **Difficile:** Cet évènement peut entraîner des conséquences lourdes, mais pas la mort des personnages. Vous serez certainement confronté à des épreuves réclamant votre attention.
+  - **Normal:** Cet évènement peut entraîner des conséquences et blessures majeures si vous faites vraiment exprès de vous rater, mais des jets de dés ratés ne vous sont pas trop néfastes.
+  - **Facile:** Cet évènement est plus facile que la moyenne, et n'entraîne que des conséquences mineures sur votre personnage.
+  - **Promenade:** Cet évènement est plus axé sur la détente qu'autre chose, et vous devriez vous en tirer sans conséquences notables.
+- Si vous tenez absolument à participer à un évènement malgré une difficulté qui vous effraie, n'hésitez pas à en parler avant l'évènement au MJ concerné pour trouver une solution.
+
+### Les blessures et décès
+- Les possibilités de blessures et de décès sont conditionnées par la difficulté de l'évènement. 
+- Gardez en tête qu'en cas de participation de PNJs à un évènement, vous les confiez en partie au MJ qui peut se montrer plus sévère avec eux qu'avec les joueurs.
+
+## Affrontements et antagonisme
+- 
