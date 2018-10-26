@@ -70,4 +70,5 @@
 - Gardez en tête qu'en cas de participation de PNJs à un évènement, vous les confiez en partie au MJ qui peut se montrer plus sévère avec eux qu'avec les joueurs.
 
 ## Affrontements et antagonisme
-- 
+- Dans le cadre d'un affrontement entre joueurs, et plus particulièrement les assassinats, vous devez vous concerter au préalable avec la cible pour savoir ce qu'il est prêt à accepter ou non. Sans accord préalable, ne tuez pas.
+- Il est de coutume de s'arranger sur le fait que dans le cas d'un assassinat, le commanditaire ou exécutant s'arrangent pour fournir à la cible un kit de changement d'identité, mais ce n'est pas une obligation.
