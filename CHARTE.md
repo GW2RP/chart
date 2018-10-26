@@ -1,5 +1,8 @@
 # La Croisée des Chemins
 
+## TL;DR:
+> Comportez vous en bonne intelligence.
+
 ## Présentation
 - 
 
@@ -8,6 +11,13 @@
 
 ## Comportement
 - Le serveur n'est pas une cour de récréation. Il s'agit, cependant, d'un espace considéré public. Par conséquent, vous êtes tenu de respecter toutes les règles de comportement s'appliquant à ces espaces. S'il y a quelque chose que vous ne feriez pas dans la rue ou dans un café, ne le faites pas non plus ici.
+
+## Différents et Conflits
+- Il est normal d'avoir des différents, et les ignorer n'aide pas à les résoudre ou à les supporter. Si vous avez un différent avec un autre joueur, vous êtes prié d'en discuter calmement et respectueusement avec les concernés en messages privés pour comprendre le problème.
+- Les messages aggressifs dont la portée vise à dénigrer ou attaquer un autre joueur, même s'ils visent à résoudre un différent, seront supprimés des canaux public sans préavis. De même, les screens de conversations dont le contenu peut porter atteinte à un autre joueur seront retirés.
+- Si vous avez besoin d'un médiateur externe, vous pouvez faire appel à un ou des modérateurs qui peuvent servir d'intermédaire pour faciliter la discussion. Mais ils ne sont pas là pour régler le problème à votre place.
+- Si vous êtes victime de harcèlement, d'insultes ou faites face à un comportement inaproprié, vous êtes invités à en réferrer au plus tôt à un modérateur qui prendra les mesures nécessaires.
+- Les screens de conversations ne seront pas acceptés par les équipes de modération.
 
 ## Recommendations
 - Evitez les sujets polémiques d'actualité. Les avis de chacuns divergent sur de nombreux points, et ce serveur a pour vocation de rassembler des personnes autour d'une passion commune, pas leurs idéaux politiques ou religieux. L'expression d'avis tranché peut blesser les plus discrets et les dissuader de venir RP. Pour de simples raisons d'opinion, c'est dommage. Ne l'oubliez pas et faites attention si vous vous lancez dans des débats, d'autant plus si vous êtes dans un canal vocal générique.
