@@ -5,7 +5,7 @@
 > L'historique des modifications est disponible sur [GitHub](https://github.com/GW2RP/chart/commits/master/CHARTE.md). Vous êtes également libre d'y proposer des modifications.
 
 ## Concepts
-- Faciliter les rencontre entre les joueurs et générer des évènement, dans le respect d'autrui.
+- Faciliter les rencontre entre les joueurs et générer des évènements, dans le respect d'autrui.
 
 ## Valeurs
 - **Respect**
