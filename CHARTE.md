@@ -5,7 +5,7 @@
 > L'historique des modifications est disponible sur [GitHub](https://github.com/GW2RP/chart/commits/master/CHARTE.md). Vous êtes également libre d'y proposer des modifications.
 
 ## Concepts
-- Faciliter les rencontre entre les joueurs et générer des évènements, dans le respect d'autrui.
+- Faciliter les rencontres entre les joueurs et générer des évènements, dans le respect d'autrui.
 
 ## Valeurs
 - **Respect**
@@ -40,7 +40,7 @@
 - Est considéré modérateur tout GM portant le rôle `Gestion GM`. Leur seule volonté est de s'amuser autant que quiconque sur ce jeu et ils n'ont pas pour vocation de gérer des différents. Gardez cela en tête.
 
 ## Sanctions
-- Les canaux public qui s'enflamment sur des débats véhéments peuvent être bloqués sans avertissement pour une durée indéterminée. Profitez-en pour prendre un peu de recul et vous demander ce qui s'est mal passé plutôt que de vous en indigner.
+- Les canaux publics qui s'enflamment sur des débats véhéments peuvent être bloqués sans avertissement pour une durée indéterminée. Profitez-en pour prendre un peu de recul et vous demander ce qui s'est mal passé plutôt que de vous en indigner.
 - En cas d'écart aux règles ci-dessus et au bon sens comportemental, les modérateurs se réservent le droit d'user des fonctionnalités de `silence` ou de `sourdine` sans préavis et sans concertation.
 - Les manquements répétés ou les comportements particulièrement inadaptés, couplés à un refus catégorique de prendre en compte les remarques et avertissements des modérateurs, peuvent conduire à une expulsion temporaire du serveur, et ce sans concertation.
 - La persistance dans le refus d'adopter un comportement approprié, malgré les avertissements, rappels à l'ordre, et sanctions répétées, ou un manquement grave au regard de la loi française, peuvent conduire à une expulsion permanente du serveur sur décision de l'équipe de modération.
